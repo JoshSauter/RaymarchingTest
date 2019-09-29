@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{85D05750-9782-53E4-D001-FA66BDB25F30}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Raymarching.shader">
+    <Files>
+      <File FileName="Assets/Raymarching.shader" Line="152" Column="45" />
+      <File FileName="Assets/RaymarchingPostEffect.cs" />
+      <File FileName="Assets/MoveForward.cs" />
+      <File FileName="Assets/PlayerLook.cs" />
+      <File FileName="Assets/PlayerMovement.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RaymarchingTest" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a1e416a3-b493-4755-ab4a-d7a2f55c4b04" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
